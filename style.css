@@ -1,0 +1,24 @@
+html, body {
+  background-color: cyan
+  
+ ;
+  height: 100%;
+  width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  pointer-events: true;
+}
+.spiderimg {
+ width:150px;
+}
+#homepage {
+  color: blue;
+}
+#boardgame {
+  color: green;
+}
+#advance {
+  color: maroon;
+}
